@@ -63,3 +63,4 @@ jobs:
           working_directory: github_actions
         env:
           PACKER_LOG: 1
+          
